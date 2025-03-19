@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Pandey</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dwM29veWR0eWtncDQxaTFuc20xZmxpNTdxM2lucTF3OXBqODR5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400"  class="ml-20"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dwM29veWR0eWtncDQxaTFuc20xZmxpNTdxM2lucTF3OXBqODR5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flirtycoder&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
