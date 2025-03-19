@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flirtycoder&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working as [SOFTWARE DEVELOPMENT INTERN](INFIVENT Pvt. Ltd.)
+- 🔭 I’m currently working as [SOFTWARE DEVELOPMENT INTERN]  (INFIVENT Pvt. Ltd.)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,Nextjs,C,C++,DSA**
 
